@@ -2,7 +2,7 @@
 
 Last projects: 
 
- - Space Website[(https://bilecky.github.io/Space-Website-Layout/)]
+ - [Space Website](https://bilecky.github.io/Space-Website-Layout/)
 
 
 
