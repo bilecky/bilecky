@@ -2,6 +2,7 @@
 
 Last projects: 
 
+ - [WatchList-App-Vanilla-JS-API](https://bilecky.github.io/Color-Scheme-Generator-API/)
  - [Color Scheme Generator](https://bilecky.github.io/Color-Scheme-Generator-API/)
  - [Space Website](https://bilecky.github.io/Space-Website-Layout/)
  - [React Movies APP](https://bilecky.github.io/praca-inz-pawel-b-san/) - working on!
