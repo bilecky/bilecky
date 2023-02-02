@@ -9,7 +9,7 @@ Last projects:
  - [Eltan company website](https://eltan.com.pl/) - [[REPO]](https://github.com/bilecky/StronaEltan)
 
 
-* click on project name if you want to check live version
+** click on project name if you want to check live version
 
 
 ## 🌐 Socials:
