@@ -7,7 +7,7 @@ Last projects:
  - [Space Website](https://bilecky.github.io/Space-Website-Layout/) - [[REPO]](https://github.com/bilecky/Space-Website-Layout)
  - [React Movies APP](https://bilecky.github.io/praca-inz-pawel-b-san/) - working on! 
  - [Eltan company website](https://eltan.com.pl/) - [[REPO]](https://github.com/bilecky/StronaEltan)
-
+* click on project name if you want to check live version
 
 
 ## 🌐 Socials:
