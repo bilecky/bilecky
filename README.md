@@ -2,11 +2,11 @@
 
 Last projects: 
 
- - [WatchList-App-Vanilla-JS-API](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html)
- - [Color Scheme Generator](https://bilecky.github.io/Color-Scheme-Generator-API/)
- - [Space Website](https://bilecky.github.io/Space-Website-Layout/)
- - [React Movies APP](https://bilecky.github.io/praca-inz-pawel-b-san/) - working on!
- - [Eltan company website](https://eltan.com.pl/)
+ - [WatchList-App-Vanilla-JS-API](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html) [REPO](https://github.com/bilecky/WatchList-App-Vanilla-JS-API)
+ - [Color Scheme Generator](https://bilecky.github.io/Color-Scheme-Generator-API/) [REPO](https://github.com/bilecky/Color-Scheme-Generator-API)
+ - [Space Website](https://bilecky.github.io/Space-Website-Layout/) [REPO](https://github.com/bilecky/Space-Website-Layout)
+ - [React Movies APP](https://bilecky.github.io/praca-inz-pawel-b-san/) - working on! 
+ - [Eltan company website](https://eltan.com.pl/) [REPO](https://github.com/bilecky/StronaEltan)
 
 
 
