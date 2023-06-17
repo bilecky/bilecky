@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Last projects: 
+Last training projects: 
 
  - [WatchList-App-Vanilla-JS-API](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html) - [[REPO]](https://github.com/bilecky/WatchList-App-Vanilla-JS-API)
  - [Color Scheme Generator-API](https://bilecky.github.io/Color-Scheme-Generator-API/) - [[REPO]](https://github.com/bilecky/Color-Scheme-Generator-API)
