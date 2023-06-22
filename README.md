@@ -5,8 +5,8 @@
 
 Last training projects: 
 
-| Project Name                      | Tech Stack                          | Live Version                                           | Repo                                                    |
-|-----------------------------------|-------------------------------------|--------------------------------------------------------|---------------------------------|
+| Project Name                      | Tech Stack                          | Live Version                                           | Repo                                         |
+|--------------------------------------------|-------------------------------------|--------------------------------------------------------|---------------------------------|
 | Space Website                     | Vanilla JS, HTML, SASS                                | [Link](https://bilecky.github.io/Space-Website-Layout/) | [Link](https://github.com/bilecky/Space-Website-Layout) |
 | Eltan company website             | Vanilla JS, HTML, SASS                               | [Link](https://eltan.com.pl/)                          | [Link](https://github.com/bilecky/StronaEltan)           |
 | WatchList-App-Vanilla-JS-API      | Vanilla JS, HTML, CSS                      | [Link](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html) | [Link](https://github.com/bilecky/WatchList-App-Vanilla-JS-API) |
