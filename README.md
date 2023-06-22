@@ -1,6 +1,16 @@
 ### Hi there 👋
 
 
+Hi there! 👋 I'm [Paweł], a frontend developer with a background in software engineering, having recently completed my bachelor's degree. I have a passion for front-end development and love creating web applications using modern libraries, frameworks, and other technologies.
+
+- 🎓 Completed my studies in Information Technology, specializing in software engineering.
+- 💻 Proficient in HTML, CSS, SASS JavaScript, REACT and related front-end technologies.
+- 🌱 Continuously learning and exploring new tools and technologies such as TypeScript to enhance my skills.
+- ⚡️ Excited about building user-friendly and visually appealing web applications.
+- 🚀 Open to collaborating on interesting projects and expanding my knowledge in the field.
+
+Feel free to explore my repositories to see some of the projects I've worked on. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on something cool!
+
 
 
 Last training projects: 
