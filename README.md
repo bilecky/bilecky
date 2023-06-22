@@ -9,8 +9,8 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
 - ⚡️ Excited about building user-friendly and visually appealing web applications.
 - 🚀 Open to collaborating on interesting projects and expanding my knowledge in the field.
 - 💫 Over the past year and a half, I've been freelancing, specializing in creating components for React-based applications, predominantly in the e-commerce domain.
-- 
-Feel free to explore my repositories to see some of the projects I've worked on. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on something cool!
+  
+💡Feel free to explore my repositories to see some of the projects I've worked on. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on something cool!
 
 
 
