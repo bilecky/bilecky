@@ -2,11 +2,14 @@
 
 Last training projects: 
 
- - [WatchList-App-Vanilla-JS-API](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html) - [[REPO]](https://github.com/bilecky/WatchList-App-Vanilla-JS-API)
- - [Color Scheme Generator-API](https://bilecky.github.io/Color-Scheme-Generator-API/) - [[REPO]](https://github.com/bilecky/Color-Scheme-Generator-API)
- - [Space Website](https://bilecky.github.io/Space-Website-Layout/) - [[REPO]](https://github.com/bilecky/Space-Website-Layout)
- - [React Movies APP](https://bilecky.github.io/praca-inz-pawel-b-san/) - working on! 
- - [Eltan company website](https://eltan.com.pl/) - [[REPO]](https://github.com/bilecky/StronaEltan)
+| Project Name                      | Tech Stack                          | Live Version                                           | Repo                                                    |
+|-----------------------------------|-------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| Space Website                     | Vanilla JS, HTML, SASS                                | [Link](https://bilecky.github.io/Space-Website-Layout/) | [Link](https://github.com/bilecky/Space-Website-Layout) |
+| Eltan company website             | Vanilla JS, HTML, SASS                               | [Link](https://eltan.com.pl/)                          | [Link](https://github.com/bilecky/StronaEltan)           |
+| WatchList-App-Vanilla-JS-API      | Vanilla JS, HTML, CSS                      | [Link](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html) | [Link](https://github.com/bilecky/WatchList-App-Vanilla-JS-API) |
+| Color Scheme Generator-API        | Vanilla JS, HTML, CSS                                    | [Link](https://bilecky.github.io/Color-Scheme-Generator-API/) | [Link](https://github.com/bilecky/Color-Scheme-Generator-API) |
+| React Movies APP                  | React                               | Working on!                                            | [Link](https://github.com/bilecky/praca-inz-pawel-b-san) |
+
 
 
 ** click on project name if you want to check live version
