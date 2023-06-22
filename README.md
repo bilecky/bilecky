@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi there! 👋 I'm [Paweł], a frontend developer with a background in software engineering, having recently completed my bachelor's degree. I have a passion for front-end development and love creating web applications using modern libraries, frameworks, and other technologies.
+Hi there! 👋 I'm Paweł, a frontend developer with a background in software engineering, having recently completed my bachelor's degree. I have a passion for front-end development and love creating web applications using modern libraries, frameworks, and other technologies.
 
 - 🎓 Completed my studies in Information Technology, specializing in software engineering.
 - 💻 Proficient in HTML, CSS, SASS JavaScript, REACT and related front-end technologies.
