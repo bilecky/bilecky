@@ -23,7 +23,7 @@ Last training projects:
 | Color Scheme Generator-API        | Vanilla JS, HTML, CSS                                    | [Link](https://bilecky.github.io/Color-Scheme-Generator-API/) | [Link](https://github.com/bilecky/Color-Scheme-Generator-API) |
 | React Movies APP                  | React                               | Working on!                                            |~~(https://github.com/bilecky/react-fs-app)~~ |
 
-
+....as well as a variety of other smaller projects that you can grab from the repository below: [LINK](https://github.com/bilecky/Projects)
 
 
 
