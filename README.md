@@ -17,7 +17,7 @@ https://github.com/bilecky/DevHireNet
 Last training projects: 
 
 | Project Name                      | Tech Stack                          | Live Version                                           | Repo                                         |
-|--------------------------------------------|-------------------------------------|--------------------------------------------------------|---------------------------------|
+|--------------------------------------------|-------------------------------------------|-----------------------------|----------------------|
 | JobBoard "DevHireNet"                     | AWS, REACT, CONTEXT, own API                            | WORKING ON | [Link](https://github.com/bilecky/DevHireNet) |
 | Space Website                     | Vanilla JS, HTML, SASS                                | [Link](https://bilecky.github.io/Space-Website-Layout/) | [Link](https://github.com/bilecky/Space-Website-Layout) |
 | Eltan company website             | Vanilla JS, HTML, SASS                               | [Link](https://eltan.com.pl/)                          | [Link](https://github.com/bilecky/StronaEltan)           |
