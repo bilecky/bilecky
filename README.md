@@ -26,6 +26,7 @@ Last training projects:
 | React Movies APP              | React                           | Working on!                                                   | [Link](https://github.com/bilecky/react-fs-app)            |
 
 
+
 ....as well as a variety of other smaller projects that you can grab from the repository below: [LINK](https://github.com/bilecky/Projects)
 
 
