@@ -12,7 +12,7 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
   
 💡Feel free to explore my repositories to see some of the projects I've worked on. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on something cool!
 
-"Portfolio" projects:
+### "Portfolio" projects:
 
 | Project Name                  | Tech Stack                      | Live Version |  Rel. date |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
@@ -22,7 +22,7 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
 
 
 
-Recent smaller projects:
+### Recent smaller projects:
 
 
 
