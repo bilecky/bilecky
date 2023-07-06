@@ -31,9 +31,10 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
 | Project Name                  | Tech Stack                      | Live Version |  Rel. date |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
 | Eltan company website         | Vanilla JS, HTML, SASS          | [Link](https://eltan.com.pl/)                                  | 2023  |   |   |   |   | [Link](https://github.com/bilecky/StronaEltan) |
-| WatchList-App-Vanilla-JS-API  | Vanilla JS, HTML, CSS           | [Link](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html)  | 2023   |   |   |   |   | [Link](https://github.com/bilecky/WatchList-App-Vanilla-JS-API) |
-| Color Scheme Generator-API    | Vanilla JS, HTML, CSS           | [Link](https://bilecky.github.io/Color-Scheme-Generator-API/)  | 2023  |   |   |   |   | [Link](https://github.com/bilecky/Color-Scheme-Generator-API) |
-| React Movies APP              | React                           | Working on!  |  2023  |   |   |   |   | [Link](https://github.com/bilecky/react-fs-app) |
+| WatchList-App-Vanilla-JS-API  | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html)  | 2023   |   |   |   |   | [Link](https://github.com/bilecky/WatchList-App-Vanilla-JS-API) |
+| Color Scheme Generator-API    | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/Color-Scheme-Generator-API/)  | 2023  |   |   |   |   | [Link](https://github.com/bilecky/Color-Scheme-Generator-API) |
+| Clock-App-Frontend-mentor   | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/Clock-App-Frontend-mentor/)  | 2022  |   |   |   |   |[Link](https://github.com/bilecky/Clock-App-Frontend-mentor) |
+| ~~React Movies APP~~              | React                           | ~~Working on!~~  |  2023  |   |   |   |   | [Link](https://github.com/bilecky/react-fs-app)|
 
 
 ....as well as a variety of other smaller projects that you can grab from the repository below: [LINK](https://github.com/bilecky/Projects)
