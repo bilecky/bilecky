@@ -16,6 +16,7 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
 
 | Project Name                  | Tech Stack                      | Live Version |  Rel. date |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
+| Flow Manager "WorkFlow Pro"          | Firebase, TypeScript, React, Redux, Tailwind   | WORKING ON    | 06.2023  |   |   |   |   | |
 | JobBoard "DevHireNet"          | AWS, REACT, CONTEXT, TAILWIND, own API   | [Link](https://bilecky.github.io/devhirenet/)    | 06.2023  |   |   |   |   | [Link](https://github.com/bilecky/DevHireNet) |
 | Space Website                 | Vanilla JS, HTML, SASS          | [Link](https://bilecky.github.io/Space-Website-Layout/)       | 2022  |   |   |   |   | [Link](https://github.com/bilecky/Space-Website-Layout) |
 
