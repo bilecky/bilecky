@@ -23,7 +23,7 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
 
 
 
-### Recent smaller projects:
+###  Training projects:
 
 
 
