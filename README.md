@@ -30,7 +30,7 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
 
 | Project Name                  | Tech Stack                      | Live Version |   |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
-| Giard Design website         | Vanilla JS, HTML, TAILWIND CSS        |                                   |   |   |   |   |   | [Link](https://github.com/bilecky/Giard-Design-website) |
+| Giard Design website         | Vanilla JS, HTML, TAILWIND CSS        |      [Link](https://bilecky.github.io/Giard-Design-website/ )                              |   |   |   |   |   | [Link](https://github.com/bilecky/Giard-Design-website) |
 | Eltan company website         | Vanilla JS, HTML, SASS, PHP         | [Link](https://eltan.com.pl/)                                  |   |   |   |   |   | [Link](https://github.com/bilecky/StronaEltan) |
 | WatchList-App-Vanilla-JS-API  | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html)  |    |   |   |   |   | [Link](https://github.com/bilecky/WatchList-App-Vanilla-JS-API) |
 | Color Scheme Generator-API    | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/Color-Scheme-Generator-API/)  |   |   |   |   |   | [Link](https://github.com/bilecky/Color-Scheme-Generator-API) |
