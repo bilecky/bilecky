@@ -9,7 +9,7 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
 - ⚡️ Excited about building user-friendly and visually appealing web applications.
 - 🚀 Open to collaborating on interesting projects and expanding my knowledge in the field.
 - 💫 My journey in the IT sector began four years ago when I started working in a technical support role. During this time, I primarily worked with HTML and JavaScript, troubleshooting and repairing user websites. This experience provided me with a solid foundation in these technologies and a practical understanding of user challenges.
-After a year in technical support, I transitioned into freelancing for two years. My focus was on creating components for React-based applications, predominantly in the e-commerce sector. I utilized technologies such as React, TypeScript, Tailwind, and Redux, and worked extensively with REST APIs.
+After a year in technical support, I transitioned into freelancing for two years. My focus was on creating components for React-based applications. I utilized technologies such as React, TypeScript, Tailwind, and Redux, and worked extensively with REST APIs.
 Most recently, I've taken on a role as a Frontend Developer. This role has allowed me to apply and further develop my technical skills in a corporate environment.
 This progression from technical support to freelancing and then to a corporate role has given me a comprehensive understanding of the tech industry. It has allowed me to refine my technical skills across a range of technologies and contexts.
   
