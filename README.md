@@ -5,7 +5,7 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
 
 - 🎓 Completed my studies in Information Technology, specializing in software engineering.
 - 💻 Proficient in HTML, CSS, SASS JavaScript, REACT and related front-end technologies.
-- 🌱 Continuously learning and exploring new tools and technologies such as TypeScript to enhance my skills.
+- 🌱 Continuously learning and exploring new tools and technologies such as Cloud Solutions, AI, TypeScript to enhance my skills.
 - ⚡️ Excited about building user-friendly and visually appealing web applications.
 - 🚀 Open to collaborating on interesting projects and expanding my knowledge in the field.
 - 💫 My journey in the IT sector began four years ago when I started working in a technical support role. During this time, I primarily worked with HTML and JavaScript, troubleshooting and repairing user websites. This experience provided me with a solid foundation in these technologies and a practical understanding of user challenges.
