@@ -17,7 +17,7 @@ https://github.com/bilecky/team-members-block
 
 | Project Name                  | Tech Stack                      | Live Version |  |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
-|  WP MEMBERS PLUGIN&BLOCK         | PHP, React | ---  |   |   |   |   |   | --| 
+|  WP MEMBERS PLUGIN&BLOCK - PAID PLUGIN          | PHP, React | ---  |   |   |   |   |   | --| 
 |  PORTFOLIO WEBSITE         | WORDPRESS | ---  |   |   |   |   |   | --| 
 | Product AI Description Manager "IntelliDescriber"          | MERN STACK (MONGO, EXPRESS, REACT, NODE.JS), REDUX, TAILWIND, AI   | IN PROGRESS   |   |   |   |   |   | IN PROGRESS | 
 | Flow Manager "WorkFlow Pro"          | Firebase (Auth, Firestore), TypeScript, React, Redux, Tailwind, React Router, Jest & React Testing Library   | [LINK](https://bilecky.github.io/workflow-pro-app/)    |   |   |   |   |   | [Link](https://github.com/bilecky/workflow-pro-app) |
