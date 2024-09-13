@@ -14,7 +14,7 @@
 https://github.com/bilecky/team-members-block
 
 
-//PROFILE HAS NOT BEEN UPDATED SINCE 2023
+//PROFILE  about-me HAS NOT BEEN UPDATED SINCE 2023
 
 ### Chosen projects:
 
