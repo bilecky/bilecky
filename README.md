@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-Hi there! 👋 I'm Paweł, a frontend developer with a background in software engineering, having recently completed my bachelor's degree. I have a passion for front-end development and love creating web applications using modern libraries, frameworks, and other technologies.
 
 - 🎓 Completed my studies in Information Technology, specializing in software engineering.
-- 💻 Proficient in HTML, CSS, SASS JavaScript, REACT and related front-end technologies.
+- 💻 Proficient in HTML, CSS, SASS JavaScript, REACT, NEXT, PHP, Wordpress and related front-end technologies.
 - 🌱 Continuously learning and exploring new tools and technologies such as Cloud Solutions, AI, TypeScript to enhance my skills.
 - ⚡️ Excited about building user-friendly and visually appealing web applications.
 - 🚀 Open to collaborating on interesting projects and expanding my knowledge in the field.
@@ -13,6 +12,10 @@ Hi there! 👋 I'm Paweł, a frontend developer with a background in software en
   
 💡Feel free to explore my public repositories to see some of the projects I've worked on. However, please note that I can't share all of my projects due to confidentiality agreements. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on something cool!
 https://github.com/bilecky/team-members-block
+
+
+//PROFILE HAS NOT BEEN UPDATED SINCE 2023
+
 ### Chosen projects:
 
 | Project Name                  | Tech Stack                      | Live Version |  |  |   |   |   | Repo |
