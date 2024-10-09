@@ -16,16 +16,16 @@ https://github.com/bilecky/team-members-block
 
  HAS NOT BEEN UPDATED SINCE 2023
 
-### Chosen projects:
+### Chosen projects (deprecated demos):
 
 | Project Name                  | Tech Stack                      | Live Version |  |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
 |  WP MEMBERS PLUGIN&BLOCK - PAID PLUGIN          | PHP, React | ---  |   |   |   |   |   | --| 
 |  ~~PORTFOLIO WEBSITE~~         | WORDPRESS | ---  |   |   |   |   |   | --| 
-| ~~Product AI Description Manager "IntelliDescriber"~~          | MERN STACK (MONGO, EXPRESS, REACT, NODE.JS), REDUX, TAILWIND, AI   | IN PROGRESS   |   |   |   |   |   | IN PROGRESS | 
-| ~~Flow Manager "WorkFlow Pro"~~          | Firebase (Auth, Firestore), TypeScript, React, Redux, Tailwind, React Router, Jest & React Testing Library   | [LINK](https://bilecky.github.io/workflow-pro-app/)    |   |   |   |   |   | ~~[Link](https://github.com/bilecky/workflow-pro-app)~~ |
-| ~~JobBoard "DevHireNet"~~          | React, Context, Tailwind, AWS (Lambda, Amplify, API Gateway, DynamoDB), React Router  | [Link](https://bilecky.github.io/devhirenet/)    |   |   |   |   |   | ~~[Link](https://github.com/bilecky/DevHireNet)~~|
-| Space Website                 | Vanilla JS, HTML, SASS          | [Link](https://bilecky.github.io/Space-Website-Layout/)       |   |   |   |   |   | [Link](https://github.com/bilecky/Space-Website-Layout) |
+| ~~Product AI Description Manager "IntelliDescriber"~~          | ~~MERN STACK (MONGO, EXPRESS, REACT, NODE.JS), REDUX, TAILWIND, AI~~   | IN PROGRESS   |   |   |   |   |   | IN PROGRESS | 
+| ~~Flow Manager "WorkFlow Pro"~~          | Firebase (Auth, Firestore), TypeScript, React, Redux, Tailwind, React Router, Jest & React Testing Library   | ~~[LINK](https://bilecky.github.io/workflow-pro-app/)~~    |   |   |   |   |   | ~~[Link](https://github.com/bilecky/workflow-pro-app)~~ |
+| ~~JobBoard "DevHireNet"~~          | React, Context, Tailwind, AWS (Lambda, Amplify, API Gateway, DynamoDB), React Router  | ~~[Link](https://bilecky.github.io/devhirenet/)~~    |   |   |   |   |   | ~~[Link](https://github.com/bilecky/DevHireNet)~~|
+| ~~Space Website~~                 | Vanilla JS, HTML, SASS          | ~~[Link](https://bilecky.github.io/Space-Website-Layout/)~~       |   |   |   |   |   | [Link](https://github.com/bilecky/Space-Website-Layout) |
 
 
 
