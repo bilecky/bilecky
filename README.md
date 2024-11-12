@@ -1,51 +1,5 @@
-### Hi there 👋
+### Hi 
 
-
-
-- 🎓 Completed my studies in Information Technology, specializing in software engineering.
-- 💻 Proficient in HTML, CSS, SASS JavaScript, REACT, NEXT, PHP, Wordpress and related front-end technologies.
-- 🌱 Continuously learning and exploring new tools and technologies such as Cloud Solutions, AI, TypeScript to enhance my skills.
-- ⚡️ Excited about building user-friendly and visually appealing web applications.
-- 🚀 Open to collaborating on interesting projects and expanding my knowledge in the field.
-- 💫 Over the past two years, I've been freelancing & working as a Frontend Developer, specializing in creating React-based applications.
-
-  
-💡Feel free to explore my public repositories to see some of the projects I've worked on. However, please note that I can't share all of my projects due to confidentiality agreements. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on something cool!
-https://github.com/bilecky/team-members-block
-
-
- HAS NOT BEEN UPDATED SINCE 2023
-
-### Chosen projects (deprecated demos):
-
-| Project Name                  | Tech Stack                      | Live Version |  |  |   |   |   | Repo |
-|-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
-|  WP MEMBERS PLUGIN&BLOCK - PAID PLUGIN          | PHP, React | ---  |   |   |   |   |   | --| 
-|  ~~PORTFOLIO WEBSITE~~         | WORDPRESS | ---  |   |   |   |   |   | --| 
-| ~~Product AI Description Manager "IntelliDescriber"~~          | ~~MERN STACK (MONGO, EXPRESS, REACT, NODE.JS), REDUX, TAILWIND, AI~~   | IN PROGRESS   |   |   |   |   |   | IN PROGRESS | 
-| ~~Flow Manager "WorkFlow Pro"~~          | Firebase (Auth, Firestore), TypeScript, React, Redux, Tailwind, React Router, Jest & React Testing Library   | ~~[LINK](https://bilecky.github.io/workflow-pro-app/)~~    |   |   |   |   |   | ~~[Link](https://github.com/bilecky/workflow-pro-app)~~ |
-| ~~JobBoard "DevHireNet"~~          | React, Context, Tailwind, AWS (Lambda, Amplify, API Gateway, DynamoDB), React Router  | ~~[Link](https://bilecky.github.io/devhirenet/)~~    |   |   |   |   |   | ~~[Link](https://github.com/bilecky/DevHireNet)~~|
-| ~~Space Website~~                 | Vanilla JS, HTML, SASS          | ~~[Link](https://bilecky.github.io/Space-Website-Layout/)~~       |   |   |   |   |   | [Link](https://github.com/bilecky/Space-Website-Layout) |
-
-
-
-
-###  Training projects:
-
-
-
-
-| Project Name                  | Tech Stack                      | Live Version |   |  |   |   |   | Repo |
-|-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
-| Giard Design website         | Vanilla JS, HTML, TAILWIND CSS        |      [Link](https://bilecky.github.io/Giard-Design-website/ )                              |   |   |   |   |   | [Link](https://github.com/bilecky/Giard-Design-website) |
-| Eltan company website         | Vanilla JS, HTML, SASS, PHP         | [Link](https://eltan.com.pl/)                                  |   |   |   |   |   | [Link](https://github.com/bilecky/StronaEltan) |
-| WatchList-App-Vanilla-JS-API  | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html)  |    |   |   |   |   | [Link](https://github.com/bilecky/WatchList-App-Vanilla-JS-API) |
-| Color Scheme Generator-API    | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/Color-Scheme-Generator-API/)  |   |   |   |   |   | [Link](https://github.com/bilecky/Color-Scheme-Generator-API) |
-| Clock-App-Frontend-mentor   | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/Clock-App-Frontend-mentor/)  |   |   |   |   |   |[Link](https://github.com/bilecky/Clock-App-Frontend-mentor) |
-| ~~React Movies APP~~              | React                           | ~~Working on!~~  |    |   |   |   |   | [Link](https://github.com/bilecky/react-fs-app)|
-
-
-....as well as a variety of other smaller projects that you can grab from the repository below: [LINK](https://github.com/bilecky/Projects)
 
 
 
