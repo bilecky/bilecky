@@ -1,6 +1,15 @@
 ### Hi 
 
 
+
+
+
+
+
+
+
+below you will find some projects that are available in the repositories (The list is no longer updated)
+
 | Project Name                  | Tech Stack                      | Live Version |   |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
 | **Next.js Portfolio**                      | Next.js, Tailwind CSS, Typescript, gsap,  | ---        | Portfolio website built with Next.js showcasing personal projects and skills | ---      | ---      | ---       |
