@@ -8,7 +8,7 @@
 
 
 
-below you will find some projects that are available in the repositories (The list is no longer updated)
+below you will find some private projects that are available in the repositories (The list is no longer updated)
 
 | Project Name                  | Tech Stack                      | Live Version |   |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
