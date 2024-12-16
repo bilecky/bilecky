@@ -13,7 +13,7 @@ below you will find some private projects that are available in the repositories
 | Project Name                  | Tech Stack                      | Live Version |   |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
 | **Next.js Portfolio**                      | Next.js, Tailwind CSS, Typescript, gsap,  | ---        | Portfolio website built with Next.js showcasing personal projects and skills | ---      | ---      | ---       |
-| **Next.js Website for Members Plugin**     | Next.js, shadcn   | ---        | Website integrating a members plugin for user management, with custom features | ---      | ---      | ---       |
+| **Next.js WebApp for Members Plugin**     | Next.js, shadcn   | ---        | Website integrating a members plugin for user management, with custom features | ---      | ---      | ---       |
 |  WP MEMBERS PLUGIN&BLOCK - PAID PLUGIN          | PHP, React | ---  |   |   |   |   |   | --| 
 |  ~~PORTFOLIO WEBSITE~~         | WORDPRESS | ---  |   |   |   |   |   | --| 
 | ~~Product AI Description Manager "IntelliDescriber"~~          | ~~MERN STACK (MONGO, EXPRESS, REACT, NODE.JS), REDUX, TAILWIND, AI~~   | IN PROGRESS   |   |   |   |   |   | IN PROGRESS | 
