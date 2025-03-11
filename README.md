@@ -8,7 +8,7 @@
 
 
 
-below you will find some private projects that are available in the repositories (the list has not been updated since 2023 - you can find more information about my current projects/career on my website [pawelbilski.com](https:/pawelbilski.com)   - feel free to reach me there )
+below you will find some private projects that are available in the repositories (the list has not been updated since 2023 - you can find more information about my current projects/career on my website pawelbilski.com   - feel free to reach me there )
 
 | Project Name                  | Tech Stack                      | Live Version |   |  |   |   |   | Repo |
 |-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
