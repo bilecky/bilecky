@@ -1,33 +1,6 @@
 ### Hi 
 
 
-
-
-
-
-
-
-
-below you will find some private projects that are available in the repositories (the list has not been updated since 2023 - you can find more information about my current projects/career on my website pawelbilski.com   - feel free to reach me there )
-
-| Project Name                  | Tech Stack                      | Live Version |   |  |   |   |   | Repo |
-|-------------------------------|---------------------------------|--------------|---|---|---|---|---|------|
-| **Next.js Portfolio**                      | Next.js, Tailwind CSS, Typescript, gsap,  | ---        | Portfolio website built with Next.js showcasing personal projects and skills | ---      | ---      | ---       |
-| **Next.js WebApp for Members Plugin**     | Next.js, shadcn   | ---        | Website integrating a members plugin for user management, with custom features | ---      | ---      | ---       |
-|  WP MEMBERS PLUGIN&BLOCK - PAID PLUGIN          | PHP, React | ---  |   |   |   |   |   | --| 
-|  ~~PORTFOLIO WEBSITE~~         | WORDPRESS | ---  |   |   |   |   |   | --| 
-| ~~Product AI Description Manager "IntelliDescriber"~~          | ~~MERN STACK (MONGO, EXPRESS, REACT, NODE.JS), REDUX, TAILWIND, AI~~   | IN PROGRESS   |   |   |   |   |   | IN PROGRESS | 
-| Flow Manager "WorkFlow Pro"          | Firebase (Auth, Firestore), TypeScript, React, Redux, Tailwind, React Router, Jest & React Testing Library   | ~~[LINK](https://bilecky.github.io/workflow-pro-app/)~~    |   |   |   |   |   | ~~[Link](https://github.com/bilecky/workflow-pro-app)~~ |
-| ~~JobBoard "DevHireNet"~~          | React, Context, Tailwind, AWS (Lambda, Amplify, API Gateway, DynamoDB), React Router  | ~~[Link](https://bilecky.github.io/devhirenet/)~~    |   |   |   |   |   | ~~[Link](https://github.com/bilecky/DevHireNet)~~|
-| Space Website             | Vanilla JS, HTML, SASS          | ~~[Link](https://bilecky.github.io/Space-Website-Layout/)~~       |   |   |   |   |   | [Link](https://github.com/bilecky/Space-Website-Layout) |
-| Giard Design website         | Vanilla JS, HTML, TAILWIND CSS        |      [Link](https://bilecky.github.io/Giard-Design-website/ )                              |   |   |   |   |   | [Link](https://github.com/bilecky/Giard-Design-website) |
-| Eltan company website         | Vanilla JS, HTML, SASS, PHP         | [Link](https://eltan.com.pl/)                                  |   |   |   |   |   | [Link](https://github.com/bilecky/StronaEltan) |
-| WatchList-App-Vanilla-JS-API  | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/WatchList-App-Vanilla-JS-API/index.html)  |    |   |   |   |   | [Link](https://github.com/bilecky/WatchList-App-Vanilla-JS-API) |
-| Color Scheme Generator-API    | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/Color-Scheme-Generator-API/)  |   |   |   |   |   | [Link](https://github.com/bilecky/Color-Scheme-Generator-API) |
-| Clock-App-Frontend-mentor   | Vanilla JS, HTML, CSS, API           | [Link](https://bilecky.github.io/Clock-App-Frontend-mentor/)  |   |   |   |   |   |[Link](https://github.com/bilecky/Clock-App-Frontend-mentor) |
-| ~~React Movies APP~~              | React                           | ~~Working on!~~  |    |   |   |   |   | [Link](https://github.com/bilecky/react-fs-app)|
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paweł-bilski-54b709a4/) 
 
